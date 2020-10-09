@@ -1,3 +1,5 @@
+Overall, the website is functional on Google Chrome, firefox, and Android. Currently, there are some issues with Safari that are being addressed. Some upcoming changes include changes to the navigation bar.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
