@@ -1,0 +1,45 @@
+
+form{
+    width: 50%;
+}
+
+#Title, #Email, #Message{
+    width: 25%;
+}
+
+.overlay7{
+	height: 50vh;
+	width: 100%;
+	background: #1b3187;
+	opacity: 0.65;
+	position: absolute;
+  }
+
+  .centered4 {
+	position: absolute;
+	top: 60%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+	font-size: 3.5em;
+  }
+
+  .container8 {
+	position: relative;
+	text-align: center;
+	height: 50vh;
+	width: 100%;
+	position: relative;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+  }
+
+  #wrapper{
+      width: 100%;
+  }
+
+  .mailing{
+      display: block;
+      width: 50%;
+  }

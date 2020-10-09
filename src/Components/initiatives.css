@@ -1,0 +1,75 @@
+  .main-body {background-color: white;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Ubuntu',sans-serif;
+  }
+  
+  .container-heading{
+    position: relative;
+	text-align: center;
+	height: 50vh;
+	width: 100%;
+	position: relative;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+  }
+  
+  .overlay-initiative{
+    height: 50vh;
+	width: 100%;
+	background: #1b3187;
+	opacity: 0.65;
+    position: absolute;
+  }
+  
+  .centered{
+    position: absolute;
+    top:60%;
+    left: 50%;
+
+	transform: translate(-50%, -50%); 
+	color: white;
+	font-size: 3em;
+  }
+  
+  
+  .main_2{
+    /* margin-left: 6%;
+    margin-right: 4%;
+    margin-top: 10%; */
+    padding: 2%;
+    color:#1b3187;
+    font-size: 2.3em;
+  }
+  
+  .main_3{
+    /* margin-left: 6%;
+    margin-right: 4%;
+    margin-top: 3%; */
+    padding:2%;
+    color:#1b3187;
+    font-size: 1.8em;
+    line-height: 1.4em;
+  }
+  
+  .floating_img{
+    display: inline-block;
+    float: none;
+    padding: 2%;
+    margin-bottom:2%;
+    height: 90%; 
+    width: 99%;
+    max-width: 700px;
+    max-height: 600px;
+    min-width: 375px;
+    min-height: 275px;
+  }
+
+  .row{
+      width: 100%;
+  }
+  .col-lg-6{
+      width: 100%;
+      vertical-align: middle;
+  }
