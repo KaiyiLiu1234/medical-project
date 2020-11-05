@@ -1,4 +1,4 @@
-Overall, the website is functional on Google Chrome, firefox, and Android. Currently, there are some issues with Safari that are being addressed. Some upcoming changes include changes to the navigation bar.
+Overall, the website is functional on Google Chrome, firefox, and Android. Currently, there are some issues with Safari that are being addressed. Some upcoming changes include changes to the navigation bar. Check out the website here: http://healthforhomeless.ca/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
