@@ -1,176 +1,177 @@
-#wrapper{
-	width: 100%;
+#wrapper {
+  width: 100%;
 }
 
-.additional-style-2{
-	padding: 10px;
-	margin: 0;
-	text-decoration: none;
-	text-align: justify; 
+.additional-style-2 {
+  padding: 10px;
+  margin: 0;
+  text-decoration: none;
+  text-align: justify;
 }
 
-
-#temp-wrapper{
-	text-align: center;
-	margin-top: 1.5%;
+#temp-wrapper {
+  text-align: center;
+  margin-top: 1.5%;
 }
 
-#temp-wrapper2{
-	text-align: center;
-	margin-top: 1.5%;
+#temp-wrapper2 {
+  text-align: center;
+  margin-top: 1.5%;
 }
 
-#linkButton{
-	color: #fff;
-	background-color: #446CB3;
-	position: absolute;
-	left: 80%;
-	bottom: 25px;
-	display: block;
-
+#linkButton {
+  color: #fff;
+  background-color: #446cb3;
+  position: absolute;
+  left: 80%;
+  bottom: 25px;
+  display: block;
 }
-@media (max-width: 949px){
-    #linkButton {display: none;}
+@media (max-width: 949px) {
+  #linkButton {
+    display: none;
   }
+}
 
-  #counter{
-	  background-color: #8eb3d1;
-	  margin: 0;
-	  width: 100%;
-	  display:block;
-	  height: 150px;
-	  text-align: center;
+#counter {
+  background-color: #8eb3d1;
+  margin: 0;
+  width: 100%;
+  display: block;
+  height: 150px;
+  text-align: center;
+}
 
-  }
+#counter span {
+  line-height: 1;
+}
 
-  #counter span{
-	  line-height: 1;
-  }
+.counter-value {
+  font-family: "Ubuntu", sans-serif;
+  color: white;
+  display: block;
+  font-size: 2.9em;
+}
 
-  .counter-value{
-	  font-family: "Ubuntu", sans-serif;
-	  color: white;
-	  display: block;
-	  font-size: 2.9em;
-  }
+.pageSection .aboutSection h1 {
+  text-align: center;
+  margin: auto;
+  margin-bottom: 20px;
+  width: 75%;
+}
 
-  .pageSection .aboutSection h1{
-	text-align: center;
-	margin:auto;
-	margin-bottom: 20px;
-	width: 75%;
-  }
+.pageSection .aboutSection p {
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  height: 50%;
+  font-size: 1.2em;
+}
+.aboutSection {
+  background-color: #fff;
+  color: #283773;
+  padding: 15px;
+  vertical-align: middle;
+  margin: auto;
+  position: relative;
+  top: 40%;
+  height: 100%;
+  bottom: 40%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
 
-  .pageSection .aboutSection p{
-	text-align: center;
-	margin:auto;
-	width: 50%;
-	height:50%;
-	font-size: 1.2em;
-	
-  }
-  .aboutSection{
-	  background-color: #fff;
-	  color: #283773;
-	  padding: 15px;
-	  vertical-align: middle;
-	  margin: auto;
-	  position: relative;
-	  top:40%;
-	  height: 100%;
-	  bottom:40%;
-	  padding-top: 10%;
-	  padding-bottom: 10%;
-	  
-  }
-
-.initiativeSection{
-	background-color: #f77176;
-	color: #fff;
-	padding: 15px;
-	vertical-align: middle;
-	margin: auto;
-	position: relative;
-	top: 25%;
-	height: 100%;
-	bottom:25%;
-	padding-top: 10%;
-	padding-bottom: 10%;
+.initiativeSection {
+  background-color: #f77176;
+  color: #fff;
+  padding: 15px;
+  vertical-align: middle;
+  margin: auto;
+  position: relative;
+  top: 25%;
+  height: 100%;
+  bottom: 25%;
+  padding-top: 10%;
+  padding-bottom: 10%;
 }
 
 .secondPageSection .initiativeSection p {
-	text-align: center;
-	margin:auto;
-	width: 50%;
-	height:50%;
-	font-size: 1.2em;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  height: 50%;
+  font-size: 1.2em;
 }
 
-.secondPageSection .initiativeSection h1{
-	text-align: center;
-	margin:auto;
-	margin-bottom: 20px;
-	width: 75%;
+.secondPageSection .initiativeSection h1 {
+  text-align: center;
+  margin: auto;
+  margin-bottom: 20px;
+  width: 75%;
 }
 
-.secondPageSection{
-	width: 100%;
-	align-items: center;
-	height: 75%;
+.secondPageSection {
+  width: 100%;
+  align-items: center;
+  height: 75%;
 }
 
-  .pageSection{
-	  width: 100%;
-	  align-items: center;
-	  height: 75%;
-  }
-
-  .container-header {
-	position: relative;
-	text-align: center;
-	height: 100vh;
-	width: 100%;
-	position: relative;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-  }
-  
-  .overlay-header{
-	height: 100vh;
-	width: 100%;
-	background: #1b3187;
-	opacity: 0.50;
-	position: absolute;
-  }
-  .centered-header {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	color: white;
-	font-size: 3.5em;
-	font-family: "Ubuntu", sans-serif;
+.pageSection {
+  width: 100%;
+  align-items: center;
+  height: 75%;
 }
 
-#readMoreButton{
-	border-color: #283773;
-	color: #283773;
+.container-header {
+  position: relative;
+  text-align: center;
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-#readMoreButton:hover{
-	background-color: #283773;
-	border-color: #000;
-	color: #fff;
+.overlay-header {
+  height: 100vh;
+  width: 100%;
+  background: #1b3187;
+  opacity: 0.5;
+  position: absolute;
+}
+.centered-header {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 3.5em;
+  font-family: "Ubuntu", sans-serif;
+}
+.centered-header > h1 {
+  font-size: 1em;
 }
 
-#readMoreButton2{
-	border-color: #fff;
-	color: #fff;
+#readMoreButton {
+  border-color: #283773;
+  color: #283773;
 }
 
-#readMoreButton2:hover{
-	background-color: #fff;
-	border-color: #000;
-	color: #000;
+#readMoreButton:hover {
+  background-color: #283773;
+  border-color: #000;
+  color: #fff;
 }
+
+#readMoreButton2 {
+  border-color: #fff;
+  color: #fff;
+}
+
+#readMoreButton2:hover {
+  background-color: #fff;
+  border-color: #000;
+  color: #000;
+}
+
