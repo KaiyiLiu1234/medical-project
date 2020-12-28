@@ -64,9 +64,7 @@ export default class Nav extends React.Component {
         id="Nav"
         style={{
           backgroundColor:
-            this.state.topOfPage === "top" ? "transparent" : "white",
-          transition: "all 1.0s",
-          position: "fixed",
+            this.state.topOfPage === "top" ? "transparent" : "#33427e", // "white",
         }}
         className="NavBar"
       >
