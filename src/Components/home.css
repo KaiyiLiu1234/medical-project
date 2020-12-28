@@ -47,7 +47,7 @@
 }
 
 .counter-value {
-  font-family: "Ubuntu", sans-serif;
+  /*font-family: "Ubuntu", sans-serif;*/
   color: white;
   display: block;
   font-size: 2.9em;
@@ -154,7 +154,7 @@
   transform: translate(-50%, -50%);
   color: white;
   font-size: 3.5em;
-  font-family: "Ubuntu", sans-serif;
+  /*font-family: "Ubuntu", sans-serif;*/
 }
 .centered-header > h1 {
   font-size: 1em;

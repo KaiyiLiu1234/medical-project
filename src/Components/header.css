@@ -1,6 +1,6 @@
 .NavBar {
   width: 100%;
-  font-family: "Roboto Condensed", sans-serif;
+  /*font-family: "Roboto Condensed", sans-serif;*/
   z-index: 700;
   min-height: 90px;
   align-items: center;
