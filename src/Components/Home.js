@@ -69,7 +69,7 @@ function Home() {
               <button
                 id="readMoreButton"
                 type="button"
-                className="btn btn-outline-dark btn-sm additional-style-2"
+                className="btn btn-outline-light btn-sm additional-style-2"
               >
                 READ MORE
               </button>
@@ -93,7 +93,7 @@ function Home() {
               <button
                 id="readMoreButton2"
                 type="button"
-                className="btn btn-outline-dark btn-sm additional-style-2"
+                className="btn btn-outline-light btn-sm additional-style-2"
               >
                 READ MORE
               </button>
